@@ -48,9 +48,11 @@ N/A
 ### Contact information: 
 GitHub profile: OnePingtoRuleThemAll
 
+### Link:
+https://onepingtorulethemall.github.io/module-3-challenge/ <!--added link-->
 ### Examples and screenshots:
-[!image](red-button.png)
-[!image](error-message.png)
-[!image](password-length.png)
-[!image](continue-option.png)
-[!image](new-password.png)
+[!image](./assets/red-button.png)
+[!image](./assets/error-message.png)
+[!image](./assets/password-length.png)
+[!image](./assets/continue-option.png)
+[!image](./assets/new-password.png)
