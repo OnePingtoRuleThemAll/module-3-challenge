@@ -29,13 +29,17 @@ https://onepingtorulethemall.github.io/module-3-challenge/
 
 
 ### Usage instructions: 
-When you go to the page, click the red "Generate Password" button. [!image](./assets/red-button.png)
-A pop up box will appear that asks how long you would like your password to be. [!image](./assets/password-length.png)
-Enter a number between 8 and 128, then press OK. (Note, if you choose a number outside of those parameters, you will recieve the following message: [!image](./assets/error-message.png))
+When you go to the page, click the red "Generate Password" button. 
+[!image](./assets/red-button.png)
+A pop up box will appear that asks how long you would like your password to be. 
+[!image](./assets/password-length.png)
+Enter a number between 8 and 128, then press OK. (Note, if you choose a number outside of those parameters, you will recieve the following message: 
+[!image](./assets/error-message.png))
 Go through all of the prompted questions and choose which parameters you'd like included in your secure password.
-When you are asked if you would like to continue with the following password characters, if you are satisfied with your choices, click "OK". [!image](./assets/continue-option.png)
+When you are asked if you would like to continue with the following password characters, if you are satisfied with your choices, click "OK". 
+[!image](./assets/continue-option.png)
 Your secure password will then generate within the screen!
-[!image](./assets/new-password.png) 
+[!image](.assets/new-password.png) 
 
 
 
